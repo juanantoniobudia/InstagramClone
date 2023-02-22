@@ -10,3 +10,5 @@ informacion con una tableview que contiene las celdas personalizadas FeedCell.
 Para navegar entre las diferentes vistas he usado la navegación a través de una Tab Bar.
 Para vincular mi aplicación a Firebase elegí el gestor de dependencias CocoaPods incluyendo además librerías que me permitan ver las analiticas de la
 aplicación en la consola de Firebase. 
+
+He añadido un archivo .m4v con una demostración del funcionamiento.
